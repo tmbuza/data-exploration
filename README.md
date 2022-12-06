@@ -1,1 +1,1 @@
-# data-exploration
+# Data Exploration Snakemake Workflows
